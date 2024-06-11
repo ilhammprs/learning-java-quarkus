@@ -1,0 +1,4 @@
+org\acme\security\keycloak\authorization\PublicResource.class
+org\acme\security\keycloak\authorization\UserResource$User.class
+org\acme\security\keycloak\authorization\UserResource.class
+org\acme\security\keycloak\authorization\AdminResource.class

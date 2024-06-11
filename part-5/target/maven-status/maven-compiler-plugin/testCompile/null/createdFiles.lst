@@ -1,0 +1,2 @@
+org\acme\security\keycloak\authorization\NativePolicyEnforcerIT.class
+org\acme\security\keycloak\authorization\PolicyEnforcerTest.class
